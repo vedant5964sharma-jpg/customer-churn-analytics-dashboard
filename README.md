@@ -13,10 +13,9 @@ It transforms customer-level data into churn probabilities, risk segments, model
 
 ## 🚀 Live Demo
 
-**Live application:** *Add your Streamlit URL here after deployment*
+**[Open ChurnLens →](https://customer-churn-analytics-dashboard-3hgptklf7u78l7kqtcdktt.streamlit.app/)**
 
-**GitHub:**
-https://github.com/vedant5964sharma-jpg/customer-churn-analytics-dashboard
+**[GitHub Repository →](https://github.com/vedant5964sharma-jpg/customer-churn-analytics-dashboard)**
 
 ---
 
